@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background-image: ;
+}
+
+.navigation {
+    width: calc(100% - 20px);
+    height: 50px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    position: fixed;
+}
+
+.navigation li {
+    display: inline;
+    padding-right: 30px;
+}
+
+header {
+    
+    height:100vh;
+    background-image: url(images/Saitama.jpg);
+    background-size: cover;
+}
+a {
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 30px;
+    
+}
+
+h1 {
+    color: white];
+}
